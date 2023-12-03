@@ -3,6 +3,7 @@
 Mostly only the first step for each day, try to guess why...
 
 - [day 1](day-01/): x86-64 assembly without stdlib
+- [day 2](day-02/): awk
 
 ## Future days ideas
 - APL
