@@ -18,7 +18,6 @@ Mostly only the first step for each day, try to guess why...
 - haskell
 - ocaml
 - agda
-- awk
 - qualcomm
 - ebpf filter
 - labView
