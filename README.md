@@ -1,10 +1,11 @@
 # Advent of Code 2023
 
-Mostly only the first step for each day, try to guess why...
+In most cases, I implemented only the first step for each day, try to guess why...
 
-- [day 1](day-01/): x86-64 assembly without stdlib
-- [day 2](day-02/): awk
-- [day 3](day-03/): BQN
+- [Day 1](day-01/): x86-64 assembly without stdlib
+- [Day 2](day-02/): awk
+- [Day 3](day-03/): BQN
+- [Day 4](day-04/): COBOL
 
 ## Future days ideas
 - APL
@@ -23,7 +24,6 @@ Mostly only the first step for each day, try to guess why...
 - ebpf filter
 - labView
 - ada
-- cobol
 - racket
 - swi prolog
 - c macros
