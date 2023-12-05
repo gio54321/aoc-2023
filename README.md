@@ -6,6 +6,7 @@ In most cases, I implemented only the first step for each day, try to guess why.
 - [Day 2](day-02/): awk
 - [Day 3](day-03/): BQN
 - [Day 4](day-04/): COBOL
+- [Day 5](day-05/): c with avx compiler intrinsics
 
 ## Future days ideas
 - APL
@@ -28,7 +29,7 @@ In most cases, I implemented only the first step for each day, try to guess why.
 - swi prolog
 - c macros
 - forth
-- avx512
 - vulkan shader
 - excel
+- [SQL](https://wiki.postgresql.org/index.php?title=Cyclic_Tag_System&oldid=15106)
 - ...

@@ -6,3 +6,8 @@ day-04/solution
 day-04/input_preprocessed.txt
 
 **/*.txt
+
+day-05/solution
+day-05/*.py
+
+.vscode/*

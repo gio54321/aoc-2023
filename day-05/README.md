@@ -1,0 +1,1 @@
+Day 5 is c with vectorized computation using Intel avx extensions and [compiler intrinsics](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html).
