@@ -7,11 +7,11 @@ In most cases, I implemented only the first step for each day, try to guess why.
 - [Day 3](day-03/): BQN
 - [Day 4](day-04/): COBOL
 - [Day 5](day-05/): c with avx compiler intrinsics
+- [Day 6](day-06/): iuia
 
 ## Future days ideas
 - APL
 - J
-- uiua
 - perl
 - flower
 - hand-written wasm
